@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Wenyang Jia — research journal in data, spectroscopy, and biology." />
+  <title>Wenyang Jia</title>
+  <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#">Wenyang Jia</a>
+      <nav class="nav-links" aria-label="Primary">
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#education">Education</a>
+        <a href="#publications">Publications</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="top">
+      <h1 id="hero-name">Wenyang Jia</h1>
+    </section>
+
+    <section id="about">
+      <h2 class="section-title">About</h2>
+      <div class="about about-cinematic" id="about-body"></div>
+      <h3 class="subsection-title">Research interests</h3>
+      <ul id="interests-list"></ul>
+    </section>
+
+    <section id="experience">
+      <h2 class="section-title">Experience</h2>
+      <div id="experience-block"></div>
+    </section>
+
+    <section id="education">
+      <h2 class="section-title">Education</h2>
+      <ul id="education-list" class="pub-list"></ul>
+    </section>
+
+    <section id="publications">
+      <h2 class="section-title">Publications</h2>
+      <div class="metrics-bar" aria-label="Citation metrics">
+        <div class="metric">
+          <span class="metric-value" id="metric-h">—</span>
+          <span class="metric-label">h-index</span>
+        </div>
+        <div class="metric">
+          <span class="metric-value" id="metric-citations">—</span>
+          <span class="metric-label">Citations</span>
+        </div>
+        <div class="metric">
+          <span class="metric-value" id="metric-works">—</span>
+          <span class="metric-label">Works</span>
+        </div>
+      </div>
+      <div class="metrics-actions">
+        <span>As of <strong id="metric-as-of"></strong></span>
+        <a class="btn btn-outline" id="scholar-btn" href="#" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+      </div>
+      <p class="metrics-footnote" id="metrics-footnote"></p>
+
+      <h3 class="subsection-title">Selected publications</h3>
+      <p class="pubs-note" id="pubs-note"></p>
+      <ol class="pub-list" id="pubs-featured"></ol>
+
+      <details class="pubs-all" id="pubs-all-details">
+        <summary id="pubs-all-summary">View all publications</summary>
+        <ol class="pub-list" id="pubs-all"></ol>
+      </details>
+    </section>
+
+    <section id="projects">
+      <h2 class="section-title">Open-source projects</h2>
+      <div class="projects-grid" id="projects-grid"></div>
+    </section>
+
+    <section id="contact">
+      <h2 class="section-title">Contact</h2>
+      <div id="contact-emails"></div>
+      <div class="contact-links" id="contact-links"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Wenyang Jia · Local preview (not published)</p>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+  <script src="js/site.js"></script>
+</body>
+</html>

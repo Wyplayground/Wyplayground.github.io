@@ -1,0 +1,218 @@
+{
+  "name": "Wenyang Jia",
+  "links": {
+    "github": "https://github.com/Wyplayground",
+    "scholar": "https://scholar.google.ca/citations?user=YFQVZK4AAAAJ",
+    "orcid": "https://orcid.org/0000-0001-6800-6706",
+    "linkedin": "https://linkedin.com/in/wenyang-jia-920972a0"
+  },
+  "contact": {
+    "emails": [
+      { "label": "Work", "address": "jiawenyang@cofco.com" },
+      { "label": "Academic", "address": "wjia02@qub.ac.uk" }
+    ]
+  },
+  "metrics": {
+    "hIndex": null,
+    "citations": null,
+    "works": null,
+    "asOf": "2026-06-05"
+  },
+  "about": [
+    "This journal is closer to an unfinished film: still being shot, still changing locations, and probably never meant to end with a clean final scene.",
+    "The journey has covered many kinds of signals: near-infrared spectra, hyperspectral images, REIMS and MALDI-ToF mass fingerprints, LC–MS/MS data, sensory responses, peptide sequences, chemometric models, and software pipelines. It has also passed through different kinds of questions: What makes food authentic? How can quality be measured before it is too late? Can a spectrum, a peptide, or a mass-spectrometry fingerprint tell a better story than the eye can see? What would the future look like when AI encounters biology?",
+    "Some scenes became papers. Some became software. Some became databases, unfinished tools, conference talks, patents, field trials, and ideas still waiting for the right form."
+  ],
+  "interests": [
+    "AI-enabled design for proteins, peptides, and microbial hosts",
+    "Interpretable machine learning and chemometrics for omics data matrices",
+    "Functional peptide discovery and high-throughput analytical automation",
+    "Spectroscopy and mass spectrometry linked to authenticity, quality, and product sense-making"
+  ],
+  "publicationsNote": "A short reel of papers; the full bibliography unfolds below.",
+  "metricsFootnote": "Citation metrics shown as of the date below; see Google Scholar for the latest counts.",
+  "experience": {
+    "title": "Postdoctoral Researcher",
+    "org": "COFCO Nutrition & Health Research Institute (NHRI)",
+    "location": "Beijing, China",
+    "period": "Aug 2024 – Present"
+  },
+  "education": [
+    {
+      "degree": "Ph.D., Agri-Food & Land Use",
+      "school": "Queen's University Belfast",
+      "location": "Northern Ireland, UK",
+      "period": "Oct 2019 – Jul 2024",
+      "note": "Thesis: Novel AI-informed spectroscopy and spectrometry methodologies for meat authenticity"
+    },
+    {
+      "degree": "M.Sc., Food Engineering",
+      "school": "University College Dublin",
+      "location": "Dublin, Ireland",
+      "period": "Sep 2016 – Nov 2018",
+      "note": null
+    },
+    {
+      "degree": "B.Sc., Chemical Engineering and Technology",
+      "school": "Beijing University of Chemical Technology",
+      "location": "Beijing, China",
+      "period": "Sep 2013 – May 2017",
+      "note": null
+    }
+  ],
+  "publicationsFeatured": [
+    "grand-banquet-2026",
+    "jfca-ham-2025",
+    "talanta-hsi-2024",
+    "foods-ai-2024",
+    "hsi-review-2022"
+  ],
+  "publications": [
+    {
+      "id": "grand-banquet-2026",
+      "authors": "W. Jia, Y. Hong, Z. Yao, A. Koidis, D. Wu, H. Huang",
+      "title": "Grand Banquet: A next-generation chemometrics framework for classification analysis on data matrix",
+      "venue": "ChemRxiv",
+      "year": 2026,
+      "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000013/v3"
+    },
+    {
+      "id": "reims-meat-2026",
+      "authors": "Y. Cui, L. Perkins, J. Liu, A. Ross, J. Wang, W. Jia, et al.",
+      "title": "Beef quality grading using rapid evaporative ionization mass spectrometry (REIMS)",
+      "venue": "Meat Science",
+      "year": 2026,
+      "url": null
+    },
+    {
+      "id": "nirs-beef-2025",
+      "authors": "W. Jia, N. Scollan, A. Koidis",
+      "title": "Rapid prediction of beef colour evolution and myoglobin forms using near-infrared spectroscopy (NIRS)",
+      "venue": "Food Chemistry Advances",
+      "year": 2025,
+      "url": null
+    },
+    {
+      "id": "jfca-ham-2025",
+      "authors": "W. Jia, A. Ferragina, S. Van Ruth, A. Koidis",
+      "title": "Robustness of hyperspectral imaging in food analysis of thin surfaces: A case study using thin HAM products",
+      "venue": "Journal of Food Composition and Analysis",
+      "year": 2025,
+      "url": "https://doi.org/10.1016/j.jfca.2025.107457"
+    },
+    {
+      "id": "talanta-hsi-2024",
+      "authors": "W. Jia, A. Ferragina, R. Hamill, A. Koidis",
+      "title": "Modelling and numerical methods for identifying low-level adulteration in ground beef using near-infrared hyperspectral imaging (NIR-HSI)",
+      "venue": "Talanta",
+      "year": 2024,
+      "url": "https://doi.org/10.1016/j.talanta.2024.126199"
+    },
+    {
+      "id": "foods-ai-2024",
+      "authors": "W. Jia, K. Georgouli, J.M.-D. Rincon, A. Koidis",
+      "title": "Challenges in the Use of AI-Driven Non-Destructive Spectroscopic Tools for Rapid Food Analysis",
+      "venue": "Foods",
+      "year": 2024,
+      "url": "https://doi.org/10.3390/foods13060846"
+    },
+    {
+      "id": "mir-book-2024",
+      "authors": "W. Jia, A. Koidis",
+      "title": "Mid-Infrared Spectroscopy (MIR)",
+      "venue": "Non-Invasive and Non-Destructive Methods for Food Integrity (book chapter)",
+      "year": 2024,
+      "url": null
+    },
+    {
+      "id": "peanut-oil-2026",
+      "authors": "G. Su, Z. Yao, D. Wang, X. Lv, W. Jia, et al.",
+      "title": "Machine learning assisted intelligent identification strategy for adulteration peanut oil based on fatty acid GC fingerprint",
+      "venue": "Food Chemistry: X",
+      "year": 2026,
+      "url": null
+    },
+    {
+      "id": "cheese-sensors-2026",
+      "authors": "M. Tarapoulouzi, W. Jia, A. Koidis",
+      "title": "New Developments and Future Challenges of Non-Destructive Near-Infrared Spectroscopy Sensors in the Cheese Industry",
+      "venue": "Sensors",
+      "year": 2026,
+      "url": null
+    },
+    {
+      "id": "reims-sensory-proc",
+      "authors": "L. Perkins, W. Jia, A. Neveu, et al.",
+      "title": "Developing chemometric models to classify eating quality of beef using REIMS and consumer sensory scores",
+      "venue": "Animal – Science proceedings",
+      "year": null,
+      "url": null
+    },
+    {
+      "id": "salmon-maldi-2024",
+      "authors": "Y. Hong, N. Birse, B. Quinn, Y. Li, W. Jia, S. van Ruth, C.T. Elliott",
+      "title": "MALDI-ToF MS and chemometric analysis as a tool for identifying wild and farmed salmon",
+      "venue": "Food Chemistry",
+      "year": 2024,
+      "url": null
+    },
+    {
+      "id": "nat-comm-2023",
+      "authors": "Y. Hong, N. Birse, B. Quinn, Y. Li, W. Jia, et al.",
+      "title": "Data fusion and multivariate analysis for food authenticity analysis",
+      "venue": "Nature Communications",
+      "year": 2023,
+      "url": null
+    },
+    {
+      "id": "sors-margarine-2022",
+      "authors": "A.M. Jiménez-Carvelo, A. Arroyo-Cerezo, S. Bikrani, W. Jia, A. Koidis, L. Cuadros-Rodríguez",
+      "title": "Rapid and non-destructive spatially offset Raman spectroscopic analysis of packaged margarines and fat-spread products",
+      "venue": "Microchemical Journal",
+      "year": 2022,
+      "url": null
+    },
+    {
+      "id": "hsi-review-2022",
+      "authors": "W. Jia, S. van Ruth, N. Scollan, A. Koidis",
+      "title": "Hyperspectral Imaging (HSI) for meat quality evaluation across the supply chain: Current and future trends",
+      "venue": "Current Research in Food Science",
+      "year": 2022,
+      "url": "https://doi.org/10.1016/j.crfs.2022.05.016"
+    },
+    {
+      "id": "phd-thesis",
+      "authors": "Wenyang Jia",
+      "title": "Novel AI-informed spectroscopy and spectrometry methodologies for meat authenticity",
+      "venue": "PhD thesis, Queen's University Belfast",
+      "year": 2024,
+      "url": "https://pure.qub.ac.uk/en/studentTheses/novel-ai-informed-spectroscopy-and-spectrometry-methodologies-for/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "synbiopath",
+      "url": "https://github.com/Wyplayground/synbiopath",
+      "language": "HTML",
+      "description": "AI + synthetic biology workflows and path tools (Bio & Omics playground)."
+    },
+    {
+      "name": "codon-project",
+      "url": "https://github.com/Wyplayground/codon-project",
+      "language": "Python",
+      "description": "Aspergillus niger codon candidate review visualization and reference data."
+    },
+    {
+      "name": "Grand-Banquet_Chemometrics-tool",
+      "url": "https://github.com/Wyplayground/Grand-Banquet_Chemometrics-tool",
+      "language": null,
+      "description": "Next-generation chemometrics framework for spectroscopy and MS data matrices."
+    },
+    {
+      "name": "Functional-Peptide-Scanner",
+      "url": "https://github.com/Wyplayground/Functional-Peptide-Scanner",
+      "language": "Python",
+      "description": "End-to-end desktop workflow for functional peptide screening."
+    }
+  ]
+}
