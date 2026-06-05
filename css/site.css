@@ -134,6 +134,12 @@ section {
   margin-bottom: 0;
 }
 
+.metrics-panel {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
 .metrics-bar {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
