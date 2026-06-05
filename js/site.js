@@ -98,7 +98,7 @@ function renderMetrics() {
   const foot = document.getElementById("metrics-footnote");
   if (elH) elH.textContent = metricVal(m.hIndex);
   if (elC) elC.textContent = metricVal(m.citations);
-  if (elW) elW.textContent = metricVal((PROFILE.publications || []).length);
+  if (elW) elW.textContent = metricVal(m.works);
   if (elAsOf) elAsOf.textContent = m.asOf || "";
   if (foot) foot.textContent = PROFILE.metricsFootnote || "";
   const scholarBtn = document.getElementById("scholar-btn");
