@@ -15,7 +15,6 @@
   "metrics": {
     "hIndex": 6,
     "citations": 305,
-    "works": 39,
     "asOf": "2026-06-05"
   },
   "about": [
@@ -30,7 +29,7 @@
     "Spectroscopy and mass spectrometry linked to authenticity, quality, and product sense-making"
   ],
   "publicationsNote": "A short reel of papers; the full bibliography unfolds below.",
-  "metricsFootnote": "Citation metrics shown as of the date below; see Google Scholar for the latest counts.",
+  "metricsFootnote": "h-index and citations as of the date below (Google Scholar). Works counts publications listed on this page.",
   "experience": {
     "title": "Postdoctoral Researcher",
     "org": "COFCO Nutrition & Health Research Institute (NHRI)",
