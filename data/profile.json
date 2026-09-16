@@ -14,9 +14,9 @@
   },
   "metrics": {
     "hIndex": 6,
-    "citations": 322,
-    "works": 19,
-    "asOf": "2026-07-23"
+    "citations": 361,
+    "works": 21,
+    "asOf": "2026-09-16"
   },
   "about": [
     "This journal is closer to an unfinished film: still being shot, still changing locations, and probably never meant to end with a clean final scene.",
@@ -77,6 +77,22 @@
       "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000013/v3"
     },
     {
+      "id": "guangchenpi-lchrms-2026",
+      "authors": "Y. Hong, W. Guo, X. Xu, X. Wang, Y. Wang, W. Jia, T. Liu, F. Zhang",
+      "title": "LC-HRMS non-targeted fingerprinting coupled with chemometrics and machine learning for storage age discrimination of Guangchenpi",
+      "venue": "Forthcoming",
+      "year": 2026,
+      "url": null
+    },
+    {
+      "id": "yu-oleogels-2026",
+      "authors": "X. Yu, L. Mascarraque, W. Jia, S. Hogan, A. Koidis",
+      "title": "Physicochemical characterisation of hydroxypropyl methylcellulose and xanthan gum emulsion template oleogels with different vegetable oils",
+      "venue": "Food Chemistry Advances",
+      "year": 2026,
+      "url": null
+    },
+    {
       "id": "reims-meat-2026",
       "authors": "Y. Cui, L. Perkins, J. Liu, A. Ross, J. Wang, W. Jia, et al.",
       "title": "Beef quality grading using rapid evaporative ionization mass spectrometry (REIMS)",
@@ -117,6 +133,14 @@
       "url": "https://doi.org/10.3390/foods13060846"
     },
     {
+      "id": "food-allergy-fsa-2024",
+      "authors": "T. Koidis, W. Jia, T. Stoikidou, M. Walker, M.H. Gowland",
+      "title": "Food Allergy Awareness Champions: Improving Food Safety Standards in Online Food Procurement for People With Food Hypersensitivities",
+      "venue": "FSA Research and Evidence",
+      "year": 2024,
+      "url": "https://doi.org/10.46756/sci.fsa.zzx336"
+    },
+    {
       "id": "mir-book-2024",
       "authors": "W. Jia, A. Koidis",
       "title": "Mid-Infrared Spectroscopy (MIR)",
@@ -145,7 +169,7 @@
       "authors": "L. Perkins, W. Jia, A. Neveu, et al.",
       "title": "Developing chemometric models to classify eating quality of beef using REIMS and consumer sensory scores",
       "venue": "Animal – Science proceedings",
-      "year": null,
+      "year": 2025,
       "url": null
     },
     {
@@ -163,6 +187,22 @@
       "venue": "Nature Communications",
       "year": 2023,
       "url": null
+    },
+    {
+      "id": "beefq-report-2022",
+      "authors": "P. Nicholas-Davies, W. Jia, S. Nigel, L. Perkins, R. Polkinghorne, A. Neveu, et al.",
+      "title": "BeefQ: Beef Eating Quality Final Report 2018–2022",
+      "venue": "Welsh Government",
+      "year": 2022,
+      "url": null
+    },
+    {
+      "id": "veal-ssrn",
+      "authors": "W. Jia, S.W. Erasmus, J. Peller, S. van Ruth, A. Koidis",
+      "title": "Layered data fusion using spectral imaging to assess myoglobin content of vacuum-packaged veal meat during storage",
+      "venue": "SSRN",
+      "year": null,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5635007"
     },
     {
       "id": "sors-margarine-2022",

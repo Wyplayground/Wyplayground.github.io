@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.local
+
+# CV stays local only — not published
+assets/CV_Wenyang_Jia.pdf
