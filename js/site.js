@@ -189,7 +189,7 @@ function initPubsToggle() {
 }
 
 async function init() {
-  const res = await fetch("data/profile.json");
+  const res = await fetch("data/profile.json", { cache: "no-store" });
   if (!res.ok) throw new Error("Failed to load profile.json");
   PROFILE = await res.json();
   renderAll();
