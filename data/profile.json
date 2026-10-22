@@ -14,9 +14,9 @@
   },
   "metrics": {
     "hIndex": 6,
-    "citations": 361,
-    "works": 20,
-    "asOf": "2026-09-16"
+    "citations": 382,
+    "works": 21,
+    "asOf": "2026-10-22"
   },
   "about": [
     "This journal is closer to an unfinished film: still being shot, still changing locations, and probably never meant to end with a clean final scene.",
@@ -80,9 +80,9 @@
       "id": "guangchenpi-lchrms-2026",
       "authors": "Y. Hong, W. Guo, X. Xu, X. Wang, Y. Wang, W. Jia, T. Liu, F. Zhang",
       "title": "LC-HRMS non-targeted fingerprinting coupled with chemometrics and machine learning for storage age discrimination of Guangchenpi",
-      "venue": "Forthcoming",
+      "venue": "Food Research International: Reports",
       "year": 2026,
-      "url": null
+      "url": "https://doi.org/10.1016/j.frinr.2026.100023"
     },
     {
       "id": "yu-oleogels-2026",
@@ -165,6 +165,14 @@
       "url": null
     },
     {
+      "id": "reims-eaap-2025",
+      "authors": "Y. Cui, L. Perkins, J. Liu, J. Wang, W. Jia, A. Ross, E. Jorge-Smeding, et al.",
+      "title": "Application of Rapid Evaporative Ionization Mass Spectrometry (REIMS) for the Classification and Prediction of Carcass Traits and Beef Quality",
+      "venue": "EAAP",
+      "year": 2025,
+      "url": null
+    },
+    {
       "id": "reims-sensory-proc",
       "authors": "L. Perkins, W. Jia, A. Neveu, et al.",
       "title": "Developing chemometric models to classify eating quality of beef using REIMS and consumer sensory scores",
@@ -192,9 +200,9 @@
       "id": "veal-ssrn",
       "authors": "W. Jia, S.W. Erasmus, J. Peller, S. van Ruth, A. Koidis",
       "title": "Layered data fusion using spectral imaging to assess myoglobin content of vacuum-packaged veal meat during storage",
-      "venue": "SSRN",
-      "year": null,
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5635007"
+      "venue": "Food and Humanity",
+      "year": 2026,
+      "url": "https://doi.org/10.1016/j.foohum.2026.101566"
     },
     {
       "id": "sors-margarine-2022",
